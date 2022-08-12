@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gG6xLMYXcC57UZo5YPOhvsC8e9tuKx6aVSlflS6nzvC82UAXFEC1VFQH3C8iqCJrUKkWi+Rl/dg7zAK/W7WHig==",
+  "success": true,
+  "projectFilePath": "/Users/evabizilj/Desktop/FRI/Tehnologija upravljanja podatkov/Seminarska/sledilnikCovid.Api/sledilnikCovid.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/evabizilj/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/evabizilj/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/evabizilj/.nuget/packages/swashbuckle.aspnetcore/6.1.5/swashbuckle.aspnetcore.6.1.5.nupkg.sha512",
+    "/Users/evabizilj/.nuget/packages/swashbuckle.aspnetcore.swagger/6.1.5/swashbuckle.aspnetcore.swagger.6.1.5.nupkg.sha512",
+    "/Users/evabizilj/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.1.5/swashbuckle.aspnetcore.swaggergen.6.1.5.nupkg.sha512",
+    "/Users/evabizilj/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.1.5/swashbuckle.aspnetcore.swaggerui.6.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

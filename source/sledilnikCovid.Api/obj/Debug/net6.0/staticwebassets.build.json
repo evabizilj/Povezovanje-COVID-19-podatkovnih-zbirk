@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vESl3oCNLamzMbUcszfjRTL4eLGH+CTlCNNhN7vMfQA=",
+  "Source": "sledilnikCovid.Api",
+  "BasePath": "_content/sledilnikCovid.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

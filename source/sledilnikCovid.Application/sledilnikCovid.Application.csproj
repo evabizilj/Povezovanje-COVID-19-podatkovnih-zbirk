@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\sledilnikCovid.Application.Contracts\sledilnikCovid.Application.Contracts.csproj" />
+    <ProjectReference Include="..\sledilnikCovid.Infrastructure\sledilnikCovid.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

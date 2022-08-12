@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>sledilnikCovid.Api</name>
+    </assembly>
+    <members>
+        <member name="M:sledilnikCovid.Api.Controllers.RegionController.GetCases(System.String,System.String,System.Nullable{System.DateTime},System.Nullable{System.DateTime})">
+            <summary>
+            Vrne vse primere z informacijami o podatkih osnovanih na datumu in regiji
+            </summary>
+            <param name="region"></param>
+            <param name="from"></param>
+            <param name="to"></param>
+            <returns>Vrne seznam primerov</returns>
+            <response code="200">Vrne seznam primerov glede na željeno regijo v dani državi</response>
+            <response code="400">Vrne izjemo glede na neustrezne vhodne podatke uporabnika</response>
+        </member>
+        <member name="M:sledilnikCovid.Api.Controllers.RegionController.GetLastweek">
+            <summary>
+            Vrne seznam vseh regij z vsoto aktivnih primerov v zadnjem tednu
+            </summary>
+            <returns>Seznam danih vsot glede na regijo</returns>
+            <response code="200">Vrne seznam regij z njihovo korespondečno vsoto</response>
+            <response code="400">Vrne izjemo glede na neustrezne vhodne podatke uporabnika</response>
+        </member>
+        <member name="M:sledilnikCovid.Api.Controllers.RegionController.GetVaccinationComparison(System.DateTime,System.DateTime,System.DateTime,System.DateTime)">
+            <summary>
+            Vrne podatke o številu smrti, najvišje dnevno število smrti, število okuženih (pozitivnih) in število cepljenih v Sloveniji v obdobju analiziranega 2. in 4. vala
+            </summary>
+            <returns>Objekt VaccinationComparisonDto</returns>
+            <response code="200">Vrne ustrezne podatke</response>
+            <response code="400">Vrne izjemo glede na neustrezne vhodne podatke uporabnika</response>
+        </member>
+        <member name="M:sledilnikCovid.Api.Controllers.RegionController.Get(System.DateTime,System.DateTime,System.DateTime,System.DateTime)">
+            <summary>
+            Vrne število umrlih, število cepljenih, število okuženh (pozitivnih) po starostnih skupinah v obdobju analiziranega 2. in 4. vala
+            </summary>
+            <returns>Seznam objektovAverageAgeOfDeathDto</returns>
+            <response code="200">Vrne ustrezne podatke</response>
+            <response code="400">Vrne izjemo glede na neustrezne vhodne podatke uporabnika</response>
+        </member>
+        <member name="M:sledilnikCovid.Api.Controllers.RegionController.GetVariantInfectionLevel">
+            <summary>
+            Vrne število okuženih, hospitalizacij na navadni in intenzivni negi ter število smrti v obdobju, ko je prevladovala originalna in delta različica
+            </summary>
+            <returns>Seznam objektov VaccinationHospitalisation</returns>
+            <response code="200">Vrne ustrezne podatke</response>
+            <response code="400">Vrne izjemo glede na neustrezne vhodne podatke uporabnika</response>
+        </member>
+        <member name="M:sledilnikCovid.Api.Controllers.RegionController.GetVaccinationHospitalisation">
+            <summary>
+            Vrne 3 evropske države, kjer je precepljenost prebivalstva najvišja in 3 evropske države, kjer je precepljenost najnižja ter pri le-teh vrne delež hospitalizacij na intenzivni negi
+            </summary>
+            <returns>Seznam objektov VaccinationHospitalisation</returns>
+            <response code="200">Vrne ustrezne podatke</response>
+            <response code="400">Vrne izjemo glede na neustrezne vhodne podatke uporabnika</response>
+        </member>
+    </members>
+</doc>

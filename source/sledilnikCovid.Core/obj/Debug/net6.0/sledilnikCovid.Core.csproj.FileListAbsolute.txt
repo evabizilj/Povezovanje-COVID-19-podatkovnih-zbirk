@@ -1,0 +1,13 @@
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Core\bin\Debug\net6.0\sledilnikCovid.Core.deps.json
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Core\bin\Debug\net6.0\sledilnikCovid.Core.dll
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Core\bin\Debug\net6.0\ref\sledilnikCovid.Core.dll
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Core\bin\Debug\net6.0\sledilnikCovid.Core.pdb
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Core\obj\Debug\net6.0\sledilnikCovid.Core.GlobalUsings.g.cs
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Core\obj\Debug\net6.0\sledilnikCovid.Core.csproj.AssemblyReference.cache
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Core\obj\Debug\net6.0\sledilnikCovid.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Core\obj\Debug\net6.0\sledilnikCovid.Core.AssemblyInfoInputs.cache
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Core\obj\Debug\net6.0\sledilnikCovid.Core.AssemblyInfo.cs
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Core\obj\Debug\net6.0\sledilnikCovid.Core.csproj.CoreCompileInputs.cache
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Core\obj\Debug\net6.0\sledilnikCovid.Core.dll
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Core\obj\Debug\net6.0\ref\sledilnikCovid.Core.dll
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Core\obj\Debug\net6.0\sledilnikCovid.Core.pdb

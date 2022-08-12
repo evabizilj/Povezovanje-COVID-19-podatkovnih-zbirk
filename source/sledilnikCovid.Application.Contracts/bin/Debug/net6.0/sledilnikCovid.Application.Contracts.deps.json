@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "sledilnikCovid.Application.Contracts/1.0.0": {
+        "dependencies": {
+          "sledilnikCovid.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "sledilnikCovid.Application.Contracts.dll": {}
+        }
+      },
+      "sledilnikCovid.Core/1.0.0": {
+        "runtime": {
+          "sledilnikCovid.Core.dll": {}
+        }
+      },
+      "sledilnikCovid.Infrastructure/1.0.0": {
+        "dependencies": {
+          "sledilnikCovid.Core": "1.0.0"
+        },
+        "runtime": {
+          "sledilnikCovid.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sledilnikCovid.Application.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "sledilnikCovid.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "sledilnikCovid.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

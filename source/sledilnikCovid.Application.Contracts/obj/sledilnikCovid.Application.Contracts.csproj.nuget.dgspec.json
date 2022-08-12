@@ -1,0 +1,172 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/evabizilj/Desktop/FRI/Tehnologija upravljanja podatkov/Seminarska/sledilnikCovid.Application.Contracts/sledilnikCovid.Application.Contracts.csproj": {}
+  },
+  "projects": {
+    "/Users/evabizilj/Desktop/FRI/Tehnologija upravljanja podatkov/Seminarska/sledilnikCovid.Application.Contracts/sledilnikCovid.Application.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/evabizilj/Desktop/FRI/Tehnologija upravljanja podatkov/Seminarska/sledilnikCovid.Application.Contracts/sledilnikCovid.Application.Contracts.csproj",
+        "projectName": "sledilnikCovid.Application.Contracts",
+        "projectPath": "/Users/evabizilj/Desktop/FRI/Tehnologija upravljanja podatkov/Seminarska/sledilnikCovid.Application.Contracts/sledilnikCovid.Application.Contracts.csproj",
+        "packagesPath": "/Users/evabizilj/.nuget/packages/",
+        "outputPath": "/Users/evabizilj/Desktop/FRI/Tehnologija upravljanja podatkov/Seminarska/sledilnikCovid.Application.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/evabizilj/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/evabizilj/Desktop/FRI/Tehnologija upravljanja podatkov/Seminarska/sledilnikCovid.Infrastructure/sledilnikCovid.Infrastructure.csproj": {
+                "projectPath": "/Users/evabizilj/Desktop/FRI/Tehnologija upravljanja podatkov/Seminarska/sledilnikCovid.Infrastructure/sledilnikCovid.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/evabizilj/Desktop/FRI/Tehnologija upravljanja podatkov/Seminarska/sledilnikCovid.Core/sledilnikCovid.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/evabizilj/Desktop/FRI/Tehnologija upravljanja podatkov/Seminarska/sledilnikCovid.Core/sledilnikCovid.Core.csproj",
+        "projectName": "sledilnikCovid.Core",
+        "projectPath": "/Users/evabizilj/Desktop/FRI/Tehnologija upravljanja podatkov/Seminarska/sledilnikCovid.Core/sledilnikCovid.Core.csproj",
+        "packagesPath": "/Users/evabizilj/.nuget/packages/",
+        "outputPath": "/Users/evabizilj/Desktop/FRI/Tehnologija upravljanja podatkov/Seminarska/sledilnikCovid.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/evabizilj/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/evabizilj/Desktop/FRI/Tehnologija upravljanja podatkov/Seminarska/sledilnikCovid.Infrastructure/sledilnikCovid.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/evabizilj/Desktop/FRI/Tehnologija upravljanja podatkov/Seminarska/sledilnikCovid.Infrastructure/sledilnikCovid.Infrastructure.csproj",
+        "projectName": "sledilnikCovid.Infrastructure",
+        "projectPath": "/Users/evabizilj/Desktop/FRI/Tehnologija upravljanja podatkov/Seminarska/sledilnikCovid.Infrastructure/sledilnikCovid.Infrastructure.csproj",
+        "packagesPath": "/Users/evabizilj/.nuget/packages/",
+        "outputPath": "/Users/evabizilj/Desktop/FRI/Tehnologija upravljanja podatkov/Seminarska/sledilnikCovid.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/evabizilj/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/evabizilj/Desktop/FRI/Tehnologija upravljanja podatkov/Seminarska/sledilnikCovid.Core/sledilnikCovid.Core.csproj": {
+                "projectPath": "/Users/evabizilj/Desktop/FRI/Tehnologija upravljanja podatkov/Seminarska/sledilnikCovid.Core/sledilnikCovid.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

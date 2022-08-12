@@ -1,0 +1,15 @@
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Infrastructure\bin\Debug\net6.0\sledilnikCovid.Infrastructure.deps.json
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Infrastructure\bin\Debug\net6.0\sledilnikCovid.Infrastructure.dll
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Infrastructure\bin\Debug\net6.0\ref\sledilnikCovid.Infrastructure.dll
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Infrastructure\bin\Debug\net6.0\sledilnikCovid.Infrastructure.pdb
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Infrastructure\bin\Debug\net6.0\sledilnikCovid.Core.dll
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Infrastructure\bin\Debug\net6.0\sledilnikCovid.Core.pdb
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Infrastructure\obj\Debug\net6.0\sledilnikCovid.Infrastructure.GlobalUsings.g.cs
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Infrastructure\obj\Debug\net6.0\sledilnikCovid.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Infrastructure\obj\Debug\net6.0\sledilnikCovid.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Infrastructure\obj\Debug\net6.0\sledilnikCovid.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Infrastructure\obj\Debug\net6.0\sledilnikCovid.Infrastructure.AssemblyInfo.cs
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Infrastructure\obj\Debug\net6.0\sledilnikCovid.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Infrastructure\obj\Debug\net6.0\sledilnikCovid.Infrastructure.dll
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Infrastructure\obj\Debug\net6.0\ref\sledilnikCovid.Infrastructure.dll
+C:\Users\guide\source\repos\covidTrackerWebAPI\sledilnikCovid.Infrastructure\obj\Debug\net6.0\sledilnikCovid.Infrastructure.pdb
